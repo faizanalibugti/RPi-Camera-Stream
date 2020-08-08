@@ -1,0 +1,1 @@
+Once the script is running on Raspberry Pi, visit http://your-pi-address:8000/ with your web-browser to view the video stream.
